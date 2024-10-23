@@ -1,14 +1,19 @@
+<img style="height:260px; width:260px; border-radius: 50%;" alt="" src="https://raw.githubusercontent.com/Shadowsx3/shadowsx3/refs/heads/main/foto.jpg" />
+
+
+---
+
 <div id="user-content-toc">
   <ul align="center">
-    <h1 style="display: inline-block">Hi 🦔, I'm Emma</h1>
+    <h1 style="display: inline-block"> Hi 🦔, I'm Emma</h1>
   </ul>
 </div>
 
-## <img style="height:auto;" alt="" src="https://raw.githubusercontent.com/Shadowsx3/shadowsx3/refs/heads/main/foto.jpg" width="260" height="260" class="avatar avatar-user width-full border color-bg-default"> About me
-
-<br>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://www.kindpng.com/picc/m/274-2748314_freetoedit-menherachan-animegirl-animecute-png-kawaii-anime-girl.png" width = 100px></picture>
+
+<br>
 
 - 🛡️ I love Pentesting & Reversing apps
 - 🦔 Obsessed with **hedgehogs** 🥰.
