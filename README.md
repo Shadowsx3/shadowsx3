@@ -1,4 +1,4 @@
-<img style="height:260px; width:260px; border-radius: 50%;" alt="" src="https://raw.githubusercontent.com/Shadowsx3/shadowsx3/refs/heads/main/foto.jpg" />
+<img style="border-radius: 50%; height:260px; width:260px" alt="" src="https://raw.githubusercontent.com/Shadowsx3/shadowsx3/refs/heads/main/foto.jpg" />
 
 
 ---
