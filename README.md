@@ -9,7 +9,7 @@
   </ul>
 </div>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## About me
 
 <picture> <img align="right" src="https://raw.githubusercontent.com/Shadowsx3/shadowsx3/refs/heads/main/foto2.png" width = 100px></picture>
 
