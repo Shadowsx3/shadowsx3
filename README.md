@@ -11,7 +11,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://www.kindpng.com/picc/m/274-2748314_freetoedit-menherachan-animegirl-animecute-png-kawaii-anime-girl.png" width = 100px></picture>
+<picture> <img align="right" src="https://raw.githubusercontent.com/Shadowsx3/shadowsx3/refs/heads/main/foto2.png" width = 100px></picture>
 
 <br>
 
