@@ -16,7 +16,7 @@
 <br>
 
 - 🛡️ I love Pentesting & Reversing apps
-- 🦔 Obsessed with **hedgehogs** 🥰.
+- 🦔 Obsessed with **hedgehogs**.
 - 🌱 Currently learning Rust, Python and advancing my Android skills.
 - 🐍 Enjoy automating tasks and solving problems using Python.
 - 🛠️ Most of my projects involve Frida and Android mod POCs.
